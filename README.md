@@ -153,19 +153,6 @@ We welcome contributions to improve the NeedleAtomos experience:
 
 This project is developed by EISENHOLZ. All rights reserved.
 
-## 🔗 Links
-
-- **EISENHOLZ**: [Company Website](https://eisenholz.com)
-- **Needle Engine**: [https://needle.tools](https://needle.tools)
-- **Unity**: [https://unity.com](https://unity.com)
-- **Three.js**: [https://threejs.org](https://threejs.org)
-
-## 📞 Support
-
-For technical support or questions about this project, please contact the EISENHOLZ development team.
-
----
-
 <div align="center">
   <p>Made with ❤️ by <strong>EISENHOLZ</strong></p>
   <p>Powered by <strong>Needle Engine</strong> and <strong>Unity</strong></p>
